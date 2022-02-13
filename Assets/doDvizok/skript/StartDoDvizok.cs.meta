@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d373c76c9cb911d49991e5235e6c93cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doDvizok: {fileID: 9204806648179070048, guid: 0014aa532c584b945b2e535cb505bcbc, type: 3}
+  - glavniObgekt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

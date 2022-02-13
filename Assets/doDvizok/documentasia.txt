@@ -1,0 +1,10 @@
+
+dvizeniaCasen:
+	dvizeniaPers(formula)
+	0 lin = линеиная функсия
+	1 Squared = квадратична
+	2 Cube = кубическая
+	3 InverseSquared = обратная квадратная
+	4 SmoothSquared = двугсторония
+	5 SquaredSglad = квадратична двугсторония
+	6 CubDorg = дорганий и не пресказуем
